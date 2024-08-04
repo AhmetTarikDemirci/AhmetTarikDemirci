@@ -2,7 +2,6 @@
 <h1 align="center">Merhaba 👋, ben Ahmet Tarık</h1>
 <h3 align="center">iOS Geliştiricisi</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmettarikdemirci&label=Profile%20views&color=0e75b6&style=flat" alt="ahmettarikdemirci" /> </p>
 
 - 🔭 Şu anda [Raf](https://github.com/mertgunay/raf-ios) üzerinde çalışıyorum
 
@@ -36,3 +35,5 @@
                 />
             </a></div>
 <br />
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmettarikdemirci&label=Profile%20views&color=0e75b6&style=flat" alt="ahmettarikdemirci" /> </p>
