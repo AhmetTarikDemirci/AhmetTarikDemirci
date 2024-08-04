@@ -1,4 +1,4 @@
-[![MasterHead]((https://www.linkedin.com/in/ahmet-tar%C4%B1k-demirci/overlay/background-image/))
+[![MasterHead]((https://ahmettarikdemirci.io/githubHeader.jpg))
 <h1 align="center">Merhaba 👋, ben Ahmet Tarık</h1>
 <h3 align="center">iOS Geliştiricisi</h3>
 
