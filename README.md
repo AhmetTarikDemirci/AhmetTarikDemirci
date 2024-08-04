@@ -7,11 +7,11 @@
 
 - 🌱 Şu anda **Swift hakkında her şeyi** öğreniyorum
 
-- 👨‍💻 Tüm projelerim [ahmettarikdemirci.io](ahmettarikdemirci.io) adresinde mevcuttur
+- 👨‍💻 Tüm projelerim [Ahmet Tarık Demirci](https://ahmettarikdemirci.io/) adresinde mevcuttur
 
 - 📫 Bana nasıl ulaşabilirsiniz **ahmettarikdemirci@icloud.com**
 
-- 📄 Deneyimlerim hakkında bilgi edinin [ahmettarikdemirci.io](ahmettarikdemirci.io)
+- 📄 Deneyimlerim hakkında bilgi edinin [Ahmet Tarık Demirci](https://ahmettarikdemirci.io/)
 
 - ⚡ Eğlenceli gerçek **Öğrenmek zihnimi sürekli genç tutuyor ve bana sonsuz zenginlik katıyor.**
 
